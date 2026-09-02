@@ -1,0 +1,21 @@
+Ordenanza Nº22417
+Ordenanza Nº 22417
+Bahia Blanca, 23/07/2026
+VISTO
+La trayectoria deportiva y el aporte realizado por Atilio “Cacho” Feliziani al básquetbol bahiense, así como la importancia de reconocer a aquellas figuras que contribuyeron al desarrollo deportivo y social de la ciudad de Bahía Blanca; y
+CONSIDERANDO
+Que Atilio “Cacho” Feliziani nació el 17 de junio de 1933, estaba casado con Mercedes Sánchez, de cuyo matrimonio nacieron sus tres hijas, Marcela, Adriana y Juliana.
+Que sus comienzos datan del año 1946, en Infantiles, siendo poco después campeón de cadetes, y conquistando el título de quinta en 1950. Con 15 años ya jugaba en Primera.
+Que en 1950 se había ganado la titularidad en un equipo que luchaba siempre los primeros puestos con Altense y después Bahiense Juniors. Ese mismo año "Cacho" debutó en la selección Mayor bahiense, con apenas 17 años. Su rendimiento le permitió ganarse un lugar en la Selección de Provincia de Buenos Aires, con la que fue campeón en febrero de 1957.
+Que su técnica, efectividad y excelente desempeño fueron determinantes para su convocatoria a la Selección Argentina que jugaría el Sudamericano de Chile, en 1957, al que no pudo concurrir por cuestiones laborales.
+Que en el mes de abril de 1964 se retiró del seleccionado local de básquet, luego de 14 años de comandar el equipo. A los 30 años de edad, Cacho cerraba una etapa de su vida deportiva dejando la base del seleccionado a Alberto Pedro Cabrera.
+Que como una anécdota que sirve para ilustrar la condición de indiscutible de Cacho Feliziani, cabe destacar que el mismo Alfio Basile, consultado sobre la vinculación de su ciudad con el básquetbol, confesó que su ídolo de joven no había sido ni Cabrera ni Fruet sino un tal Cacho Feliziani al que valía la pena levantarse los domingos por la mañana y bajar desde la “Loma” de Bella Vista para verlo jugar.
+Que el básquet fue la pasión de su vida. Fue jugador, árbitro, técnico y llegó a ser Presidente del Club Napostá, el club de sus amores. Quienes lo vieron jugar y aquellos que más conocen de la historia del básquet en la ciudad coinciden en asegurar que para que hayan existido Atilio Fruet, Alberto Pedro Cabrera y De Lizaso, el camino fue allanado por aquellos que los precedieron, René Giménez, Mario Marchesino o Atilio “Cacho” Feliziani.
+Que Cacho Feliziani falleció el 20 de mayo de 2020 a los 86 años de edad.
+Que en virtud de su destacada trayectoria deportiva, su compromiso con el desarrollo del básquetbol bahiense y el legado a generaciones posteriores de deportistas, resulta plenamente meritorio la designación de una calle de nuestra ciudad como reconocimiento a su invaluable aporte a la identidad deportiva y social de Bahía Blanca.
+Que el básquetbol es una disciplina deportiva ligada fuertemente a la historia de nuestra ciudad y que forma parte de nuestra identidad bahiense, cuna de figuras de trascendencia nacional e internacional, consolidando una tradición deportiva de excelencia.
+Que, en ese marco y desde el año 2005, una de las principales avenidas de acceso a la ciudad lleva el nombre de Alberto Pedro Cabrera, uno de los protagonistas de la época de oro del básquet bahiense (Ordenanza N° 11.582).
+Que, en el mismo sentido, en el año 2022, la Dirección Provincial de Vialidad aprobó la denominación de Autovía Atilio Fruet para el tramo del camino de circunvalación de nuestra ciudad comprendido entre las rotondas de Bosque Alto –a la altura de la Ruta Nº 33– y la de la avenida Alberto Cabrera, que surgió a propuesta del Círculo de Periodistas Deportivos de nuestra ciudad, en homenaje a quien fuera una de las figuras destacadas del básquet local, nacional e internacional.
+Que dada la relevancia histórica que el básquetbol posee para nuestra ciudad, resulta pertinente propiciar la denominación de Atilio Eduardo Feliziani a una arteria perpendicular o cercana a la Avenida que lleva el nombre de Alberto Pedro Cabrera, estableciendo de ese modo una referencia urbana que permita poner en valor y preservar la memoria de representantes que formaron parte de la historia del deporte emblema de nuestra ciudad.
+Por todo lo expuesto, el H. Concejo Deliberante en uso de sus facultades, sanciona con fuerza de:
+ORDENANZA

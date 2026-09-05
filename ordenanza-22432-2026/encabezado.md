@@ -1,0 +1,14 @@
+Ordenanza Nº22432
+Ordenanza Nº 22432
+Bahia Blanca, 13/08/2026
+VISTO
+El proyecto de ordenanza obrante a fojas 16 y 17, referido al pago de expensas adeudadas correspondientes a los meses de octubre 2025 con vencimiento en noviembre de 2025, y noviembre 2025 con vencimiento en diciembre de 2025, por las cocheras ubicadas en el Mercado Municipal, propiedad del Municipio.
+Y CONSIDERANDO:
+Que atento que a fojas 1 y con el visto bueno del director de la Agencia de Innovación, Desarrollo Productivo y Urbanismo solicita se gestione el pago de las expensas adeudadas de las cocheras ubicadas en el Mercado Municipal, propiedad del Municipio, correspondientes a los gastos de los meses de octubre y noviembre de 2025, explicando que el pago se vio interrumpido por no haberse recibido las liquidaciones correspondientes en tiempo y forma, y que de no realizarse el mismo implicaría un enriquecimiento sin causa en favor del Municipio.
+Que a fojas 2 consta informe de la subsecretaría de Desarrollo Productivo con detalle de montos adeudados correspondientes a cada mes y total adeudado por los dos (2) meses.
+Que a fojas 3 consta copia de e-mail enviado con fecha 26 de mayo de 2026 a las 8.30 hs., solicitando el envío de la documentación para el pago, después de varios intentos telefónicos y vía WhatsApp con el mismo fin, sin obtener respuesta favorable.
+Que a fojas 4 consta copia de e-mail con fecha 26 de mayo de 2026, 15:15 hs., donde desde la administración de las cocheras del mercado responden, y envían archivos adjuntos con las liquidaciones correspondientes a los meses adeudados.
+Que a fojas 13, el departamento Contaduría General, informa que “... el gasto mencionado en el presente expediente, no se encuentra contemplado en el ejercicio económico 2025, por lo cual no está incluido en la deuda flotante.
+A fin de dar cumplimiento a lo dispuesto en el artículo 140 del Reglamento de Contabilidad y 54 del decreto 2980, los cuales disponen: “El departamento Ejecutivo no podrá reconocer deudas de ejercicios anteriores no registradas en la contabilidad municipal, sin previa comprobación - hecha en expediente especial – de la legitimidad del derecho invocado por el acreedor. Cumplido este paso, para abonar la deuda, deberá requerir y obtener autorización del Concejo. Por lo expuesto esta Contaduría informa que la imputación del presente gasto correspondía, en su año de origen a la partida 3.3.1.0, Categoría Programática 01.05.00, Fuente de Financiamiento 110, Jurisdicción 1110124000”.
+Por lo expuesto, teniendo en cuenta la liquidación informada por la subsecretaría de Desarrollo Productivo a fojas 2, y lo informado por Contaduría General a fojas 13, correspondía la intervención de este H. Cuerpo, por lo que el H. Concejo Deliberante, en uso de sus facultades sanciona con fuerza de,
+ORDENANZA

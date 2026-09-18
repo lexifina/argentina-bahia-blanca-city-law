@@ -1,0 +1,15 @@
+Ordenanza Nº22443
+Ordenanza Nº 22443
+Bahia Blanca, 20/08/2026
+O R D E N A N Z A
+VISTO
+El proyecto de ordenanza obrante a fojas 11/12, referido al pago de bonificación por antigüedad de años de servicio prestados como becaria en la Municipalidad de Bahía Blanca, por la agente Anahí Soledad DELL'OLIO D.N.I 36.168.658, legajo N.º 21.501, dependiente de la Dirección de Turismo – Agencia de Innovación, Desarrollo Productivo y Urbanismo y,
+CONSIDERANDO
+Que por Resolución N.º 594/2026 se reconoció a la agente Anahí Soledad DELL'OLIO, dependiente de la Dirección de Turismo – Agencia de Innovación, Desarrollo Productivo y Urbanismo, los servicios desempeñados como becaria en la Municipalidad de Bahía Blanca, durante un (1) año y un (1) mes, en concepto de Bonificación por Antigüedad y del usufructo de Licencia Anual Ordinaria, a partir del 30 de marzo de 2026 y en su Artículo 4º se hizo lugar al reconocimiento de las diferencias salariales no prescriptas de dos (2) años anteriores a la fecha mencionada precedentemente.
+Que atento lo dispuesto en el Artículo N.º 140, del Reglamento de Contabilidad para Municipios y N.º 54 del Decreto N.º 2.980, que expresa, “El Departamento Ejecutivo no podrá reconocer deudas de ejercicios anteriores no registradas en la contabilidad municipal, sin previa comprobación – hecha en expediente especial – de la legitimidad del derecho invocado por el acreedor. Cumpliendo este paso, para abonar la deuda deberá requerir y obtener autorización del Concejo.
+En el precitado expediente se acumularán todas las constancias que posea la comuna (autoridades, funcionarios o empleados que dispusieron el gasto, fecha del compromiso, etcétera), y se le agregarán los pedidos de suministros, órdenes de compra y todo otro documento que permita fijar con exactitud la administración que dio origen al compromiso, como asimismo la indudable recepción de los efectos adquiridos o la real prestación de los servicios cuyo pago se reclama. Además se indicará la imputación que hubiera correspondido al gasto en el presupuesto del año de origen.
+Cumplidos todos los requisitos precedentes se dará vista a quien haya estado a cargo del Departamento Ejecutivo en la fecha de contratación del compromiso o, en su defecto, se documentará la imposibilidad de hacerlo. Y cubiertos estos recaudos, el Departamento Ejecutivo, solicitará del Concejo autorización para registrar la deuda y efectuar el pago.”
+Que el Departamento Administración de Personal adjunta de fojas 7 a 9 el detalle de la liquidación.
+Que el Departamento Contaduría informa a fojas 10, que el gasto mencionado en el presente expediente no se encuentra contemplado en los ejercicios económicos 2024 y 2025, por lo cual no está incluido en la Deuda Flotante y su imputación correspondía, en su año de origen, a la Partida 1.1.3.1, 1.1.4.0, 1.1.6.1, 1.1.6.2, Categoría Programática 01.01.00, Fuente 110 y Jurisdicción 1110124000;
+Por todo lo expuesto, el H. Concejo Deliberante en uso de sus facultades, sanciona con fuerza de:
+ORDENANZA

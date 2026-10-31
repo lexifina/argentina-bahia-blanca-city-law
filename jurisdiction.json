@@ -5,7 +5,7 @@
   "level": "municipality",
   "parent": "ar-b",
   "repo": "https://github.com/lexifina/argentina-bahia-blanca-city-law",
-  "build": "built: municipal ordinances (99 ordinances, 99 versions) from https://sibom.slyt.gba.gob.ar/cities/9",
+  "build": "built: municipal ordinances (148 ordinances, 148 versions) from https://sibom.slyt.gba.gob.ar/cities/9",
   "language": "es",
   "sources": 1
 }

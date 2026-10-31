@@ -8,7 +8,7 @@ The text is in Spanish, exactly as the source prints it.
 
 ## What this repository holds
 
-99 ordinances so far, in force from 12 July 2026 to 7 November 2026, each as published in the Boletín Oficial Municipal de Bahía Blanca, added newest first in parts.
+148 ordinances so far, source-dated from 1 October 2017 to 7 November 2026, each as SIBOM publishes it.
 
 | Folder | Ordinance | History |
 | --- | --- | --- |
@@ -111,6 +111,55 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-22394-2026/` | Ordenanza 22394/2026: Autorízase en los términos de los artículos 155 de la Ley Orgánica las Municipalidades y 187 del Reglamento de Contabilidad, la aceptación… | in force 12 July 2026 |
 | `ordenanza-22395-2026/` | Ordenanza 22395/2026: Autorízase en los términos de los artículos 155 de la Ley Orgánica las Municipalidades y 187 del Reglamento de Contabilidad, la aceptación… | in force 12 July 2026 |
 | `ordenanza-22396-2026/` | Ordenanza 22396/2026: Autorízase en los términos de los artículos 155 de la Ley Orgánica las Municipalidades y 187 del Reglamento de Contabilidad, la aceptación… | in force 12 July 2026 |
+| `ordenanza-19066-2017/` | Ordenanza 19066/2017: Autorizase, la escrituración del Excedente Fiscal, generado por Plano de Mensura característica 7-211-2016, el cual se identifica catastra… | oldest version available, source-dated 22 March 2018 |
+| `ordenanza-19070-2017/` | Ordenanza 19070/2017: Convalidase, el Contrato de Beca Colegiada firmado entre el Director General del Hospital Municipal de Agudos Dr. Leónidas Lucero (H.M.A.L… | oldest version available, source-dated 22 March 2018 |
+| `ordenanza-19072-2017/` | Ordenanza 19072/2017: En la obra ILUMINACION CALLE JAURETCHE, ENTRE MISIONEROS E INDIADA, de la ciudad de Bahía Blanca, correspondiente al expte. Nº 415-2729-20… | oldest version available, source-dated 22 March 2018 |
+| `ordenanza-19052-2017/` | Ordenanza 19052/2017: Dispóngase el reconocimiento de los daños materiales ocasionados al vehículo PEUGEOT 207, Dominio KVT 274, propiedad del Señor Luis Oscar … | oldest version available, source-dated 22 March 2018 |
+| `ordenanza-19057-2017/` | Ordenanza 19057/2017: Exímase al Señor Silva Marcelo Antonio, DNI Nº 30.351.253, del pago de la Tasa por Inspección de Seguridad e Higiene, desde el día 11 de D… | oldest version available, source-dated 22 March 2018 |
+| `ordenanza-19034-2017/` | Ordenanza 19034/2017: Establézcase prohibición de circulación de camiones con una tara mayor a ocho toneladas en el sector comprendido por las calles 17 de Mayo… | oldest version available, source-dated 5 November 2017 |
+| `ordenanza-19037-2017/` | Ordenanza 19037/2017: Créase en el Partido de Bahía Blanca, la Oficina Municipal de Atención al Inquilino y Consorcista (OMAIC). | oldest version available, source-dated 5 November 2017 |
+| `ordenanza-19039-2017/` | Ordenanza 19039/2017: Deróguense las Ordenanzas Nº 18.501 y Nº 18.628. | oldest version available, source-dated 5 November 2017 |
+| `ordenanza-19041-2017/` | Ordenanza 19041/2017: Exímase a la Señora Carlota Salto, DNI 10.355.307, del pago de Derechos de Construcción por la suma de $ 9.999.- (Nueve Mil Novecientos No… | oldest version available, source-dated 5 November 2017 |
+| `ordenanza-19044-2017/` | Ordenanza 19044/2017: Créase el Marco Regulatorio para que los Camiones de Comidas, denominados Food Trucks, puedan ejercer el comercio y elaboración de aliment… | oldest version available, source-dated 5 November 2017 |
+| `ordenanza-19023-2017/` | Ordenanza 19023/2017: Establézcase la prohibición de estacionamiento en calle Yrigoyen, entre Avenida Napostá y Fuerte Argentino sobre la acera de los números i… | oldest version available, source-dated 1 October 2017 |
+| `ordenanza-19002-2017/` | Ordenanza 19002/2017: Deléguese las funciones de Presidente de la Comisión Asesora Permanente Ad Honorem para la Preservación del Patrimonio Arquitectónico Urba… | oldest version available, source-dated 1 October 2017 |
+| `ordenanza-19003-2017/` | Ordenanza 19003/2017: Autorizase, con carácter de excepción, el desarrollo del uso Lavadero de Automóviles, en el inmueble designado catastralmente como: Circun… | oldest version available, source-dated 1 October 2017 |
+| `ordenanza-19004-2017/` | Ordenanza 19004/2017: Autorizase al Departamento Ejecutivo en los términos de los Artículos 155º, de la Ley Orgánica de las Municipalidades y Artículos 187º y 1… | oldest version available, source-dated 1 October 2017 |
+| `ordenanza-19014-2017/` | Ordenanza 19014/2017: Ratificase en los términos del Artículo 8º, de la Ordenanza 8.166, el otorgamiento del Legajo de Transporte Escolar TE-003, efectuado por … | oldest version available, source-dated 1 October 2017 |
+| `ordenanza-19015-2017/` | Ordenanza 19015/2017: Establécese un espacio reservado para Parada de Abastecimiento sobre calle Vieytes desde la numeración domiciliaria 102 hasta la numeració… | oldest version available, source-dated 1 October 2017 |
+| `ordenanza-19017-2017/` | Ordenanza 19017/2017: Modificase el Artículo 1º, de la Ordenanza 18.693, el que quedará redactado de la siguiente manera: | oldest version available, source-dated 1 October 2017 |
+| `ordenanza-19019-2017/` | Ordenanza 19019/2017: Autorízase la obra Construcción de Cordón Cuneta y Triángulo en calle TAURO entre Witcomb y 12 de Octubre (al 800 – ambas aceras) de la ci… | oldest version available, source-dated 1 October 2017 |
+| `ordenanza-19020-2017/` | Ordenanza 19020/2017: Autorizase, con carácter de excepción, la eximición del cumplimiento de lo estipulado en la Ordenanza 6042, en cuanto a la Unificación de … | oldest version available, source-dated 1 October 2017 |
+| `ordenanza-19089-2017/` | Ordenanza 19089/2017: Autorízase en los términos del artículo 273ª de la Ley Orgánica de las Municipalidades, la locación del inmueble sito en calle Casanova nº… | oldest version available, source-dated 26 July 2018 |
+| `ordenanza-19102-2017/` | Ordenanza 19102/2017: Declárese de Utilidad Pública y Pago Obligatorio la obra “Pavimentación de varias calles de Bahía Blanca (Etapa VIII – Año 2016) -18 cuadr… | oldest version available, source-dated 26 July 2018 |
+| `ordenanza-19108-2017/` | Ordenanza 19108/2017: Prohíbase en el Partido de Bahía Blanca, la exhibición de animales en espacios de carácter privado, público o semi público, en vidrieras, … | oldest version available, source-dated 26 July 2018 |
+| `ordenanza-19114-2017/` | Ordenanza 19114/2017: Autorizase la excepción a la restricción que establece el Código de Planeamiento Urbano en la zona IL y S3, en cuanto a dimensiones de fre… | oldest version available, source-dated 26 July 2018 |
+| `ordenanza-19123-2017/` | Ordenanza 19123/2017: Modificar el Artículo 1º, de la Ordenanza Nº 18.956, el que quedará redactado de la siguiente manera: | oldest version available, source-dated 2 September 2018 |
+| `ordenanza-19126-2017/` | Ordenanza 19126/2017: Convalidase el Convenio Específico y el Anexo I, para la implementación del Plan Nacional de Primera Infancia, suscripto entre la Secretar… | oldest version available, source-dated 2 September 2018 |
+| `ordenanza-19135-2017/` | Ordenanza 19135/2017: Autorizase, con carácter de excepción, el visado de Plano de Mensura de los inmuebles identificados catastralmente como: Circunscripción I… | oldest version available, source-dated 2 September 2018 |
+| `ordenanza-19158-2017/` | Ordenanza 19158/2017: En la obra “Extensión de la Red de Desagûes Cloacales en calle Chaco, entre Moreno y Holdich del Barrio Noroeste”, realizada por la modali… | oldest version available, source-dated 2 September 2018 |
+| `ordenanza-19159-2017/` | Ordenanza 19159/2017: Autorizase, con carácter de excepción, la ocupación al retiro de fondo de 5 metros, hasta agotar el F.O.S. (60%) de la zona, en el inmuebl… | oldest version available, source-dated 2 September 2018 |
+| `ordenanza-19168-2017/` | Ordenanza 19168/2017: Fíjese la Bajada de Bandera, del Servicio de Taxis, en Treinta y Dos Pesos con Cuarenta y Cinco Centavos ($ 32,45.-) como máximo. | oldest version available, source-dated 2 September 2018 |
+| `ordenanza-19169-2017/` | Ordenanza 19169/2017: Ordenanza 19169/2017 | oldest version available, source-dated 2 September 2018 |
+| `ordenanza-19179-2017/` | Ordenanza 19179/2017: Autorizase, con carácter de excepción, a la Señora Claudia Patricia HUBERT, el desarrollo del uso Salón de Eventos, en el inmueble sito en… | oldest version available, source-dated 2 September 2018 |
+| `ordenanza-19180-2017/` | Ordenanza 19180/2017: Autorizase, con carácter de excepción, a la Sociedad Sportiva, el desarrollo de los usos Salón de Fiestas y Restaurante, en los inmuebles … | oldest version available, source-dated 2 September 2018 |
+| `ordenanza-19194-2017/` | Ordenanza 19194/2017: En la obra ILUMINACION CALLES DEL BARRIO VILLA ROSARIO SUR, correspondiente al expediente 415R-2019-2016 c/ 791R-2747-2016, declárense cum… | oldest version available, source-dated 2 September 2018 |
+| `ordenanza-19199-2017/` | Ordenanza 19199/2017: Exímase, al Señor MINICH, ALBERTO, DNI 8.311.836, Contribuyente Nº 43.504, del pago de la Tasa por Inspección de Seguridad e Higiene, desd… | oldest version available, source-dated 2 September 2018 |
+| `ordenanza-19200-2017/` | Ordenanza 19200/2017: Aceptase la donación efectuada por la Señora Sonia NEUBURGER al Municipio de Bahía Blanca, con destino a los Museos de Bellas Artes y Arte… | oldest version available, source-dated 2 September 2018 |
+| `ordenanza-19215-2017/` | Ordenanza 19215/2017: Deróguese la Ordenanza Nº 17.983. | oldest version available, source-dated 2 September 2018 |
+| `ordenanza-19293-2018/` | Ordenanza 19293/2018: Declarase incorporado al Patrimonio Municipal el bien identificado catastralmente como: Circunscripción IV, Sección E, Chacra 25, Fracción… | oldest version available, source-dated 28 September 2018 |
+| `ordenanza-19298-2018/` | Ordenanza 19298/2018: Acéptase la donación efectuada por la Señora Martha Edith GARRIDO al Municipio de Bahía Blanca, con destino al Museo de Ciencias de la ciu… | oldest version available, source-dated 28 September 2018 |
+| `ordenanza-19299-2018/` | Ordenanza 19299/2018: Autorízase al Departamento Ejecutivo Municipal a la instalación de Buzones Anti-Narco en Delegaciones Municipales, Salas Médicas y otras r… | oldest version available, source-dated 28 September 2018 |
+| `ordenanza-19228-2018/` | Ordenanza 19228/2018: Apruebase el Informe Final y Proyecto de Distribución presentados por los Interventores Liquidadores del Consorcio Promoción y Desarrollo … | oldest version available, source-dated 28 September 2018 |
+| `ordenanza-19234-2018/` | Ordenanza 19234/2018: Convalídase el Convenio de Colaboración, celebrado entre la Agencia Nacional de Materiales Controlados, representada por la Dra. Natalia G… | oldest version available, source-dated 28 September 2018 |
+| `ordenanza-19235-2018/` | Ordenanza 19235/2018: Concédase, por excepción, al Señor Rodrigo Nicolás Ojeda, un plazo de dos (2) años, para que la unidad Domino CEV 251, preste la actividad… | oldest version available, source-dated 28 September 2018 |
+| `ordenanza-19241-2018/` | Ordenanza 19241/2018: Modificar el Artículo 3º, de la Ordenanza Nº 19.228, el cual quedará redactado de la siguiente manera: | oldest version available, source-dated 28 September 2018 |
+| `ordenanza-19250-2018/` | Ordenanza 19250/2018: Autorizase, con carácter de excepción, a la firma Obras Abedul S.R.L., el desarrollo del uso “Planta para Elaboración de Hormigón Asfáltic… | oldest version available, source-dated 28 September 2018 |
+| `ordenanza-19253-2018/` | Ordenanza 19253/2018: Acéptese, las donaciones efectuadas al Hospital ---------------------- Municipal de Agudos “Dr. Leónidas Lucero”, que se detallan a contin… | oldest version available, source-dated 28 September 2018 |
+| `ordenanza-19254-2018/` | Ordenanza 19254/2018: Autorizase, la obra “Extensión de Red de Gas Natural Domiciliaria en calle Witcomb al 3800 (vereda par)”, en un todo de acuerdo al Plano d… | oldest version available, source-dated 28 September 2018 |
+| `ordenanza-19256-2018/` | Ordenanza 19256/2018: En la obra “Extensión Red de Gas Natural en Barrio Villa Esperanza y varios sectores de la ciudad”, correspondientes al expediente 415R-33… | oldest version available, source-dated 28 September 2018 |
+| `ordenanza-19258-2018/` | Ordenanza 19258/2018: Dispóngase el reconocimiento de los daños materiales ocasionados al vehículo particular Marca Peugeot 205, con Dominio BMQ 758, propiedad … | oldest version available, source-dated 28 September 2018 |
+| `ordenanza-19266-2018/` | Ordenanza 19266/2018: Autorizase, en los términos de los Artículos155º, de la Ley Orgánica de las Municipalidades y 187º, del Reglamento de Contabilidad, la ace… | oldest version available, source-dated 28 September 2018 |
 
 ## Source
 

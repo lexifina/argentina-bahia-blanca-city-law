@@ -1,0 +1,10 @@
+# Ordenanza 22406/2026: Autorízase con carácter de excepción, el desarrollo de la actividad “Elaboración de masas, pasteles, sandwich y productos similiares”, en el inmueble sito en calle Matheu n.º 4950, identificado catastralmente como Circun
+
+Ordenanza 22406/2026 · 1 versions, from 2026-07-17 (latest in force: 2026-07-17) · <https://sibom.slyt.gba.gob.ar/bulletins/15325/contents/2413679>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Artículo 1 | [art-001.md](art-001.md) | 0 |  |
+| Artículo 2 | [art-002.md](art-002.md) | 0 |  |
+| Artículo 3 | [art-003.md](art-003.md) | 0 |  |
+| Encabezado | [encabezado.md](encabezado.md) | 0 |  |
